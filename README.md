@@ -94,6 +94,16 @@ Total Orders = DISTINCTCOUNT(Fact_Sales[OrderNumber])
 
 ---
 
+## Report Pages Preview
+
+### Executive Overview
+![Executive Overview](Visuals/Page1_ExecutiveOverview.png)
+
+### Customer Detail
+![Customer Detail](Visuals/Page2_CustomerDetail.png)
+
+---
+
 ## Skills Demonstrated
 - Executive Dashboard Design
 - Commercial & Margin Analysis
